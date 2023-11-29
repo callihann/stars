@@ -1,0 +1,11 @@
+{
+  "name": "@marlowemarlowe/stars",
+  "version": "1.0.0",
+  "description": "Generate stars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlowe Oliver",
+  "license": "MIT"
+}
